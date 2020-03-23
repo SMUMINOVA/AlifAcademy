@@ -28,7 +28,7 @@ namespace NewFile
             int secondNumb = numb / 10;
             int newNumb = secondNumb + firstNumb * 10;
             Console.WriteLine("41 = " + newNumb);
-            int N = 10958;
+            int N = 10985;
             Console.WriteLine("результат = " + (N / 60));
             int daysOfYear = 202;
             Console.WriteLine( "Номер дня недели " + (daysOfYear % 7));
